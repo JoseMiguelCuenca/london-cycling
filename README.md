@@ -6,7 +6,7 @@ PEC2 de Visualización de Datos — José Miguel Cuenca Fernández.
 Describir el uso registrado de Santander Cycles del 1 al 14 de agosto de 2024 mediante una infografía, diagramas de cuerdas y un ridgeline. Los viajes no equivalen a personas únicas ni permiten medir demanda no atendida.
 
 ## Visualizaciones
-- Infografía: `docs/index.html`
+- Infografía: https://josemiguelcuenca.github.io/london-cycling/
 - Volumen diario: https://public.flourish.studio/visualisation/30743491/
 - Perfil horario: https://public.flourish.studio/visualisation/30745721/
 - Chord entre semana: https://public.flourish.studio/visualisation/30743288/
