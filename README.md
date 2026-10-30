@@ -11,8 +11,7 @@ Describir el uso registrado de Santander Cycles del 1 al 14 de agosto de 2024 me
 - Perfil horario: https://public.flourish.studio/visualisation/30745721/
 - Chord entre semana: https://public.flourish.studio/visualisation/30743288/
 - Chord fin de semana: https://public.flourish.studio/visualisation/30743390/
-- Ridgeline: `docs/assets/ridgeline_duracion.svg`.
-
+- Ridgeline: https://josemiguelcuenca.github.io/london-cycling/assets/ridgeline_duracion.svg
 ## Datos y metodología
 411.370 viajes. Preparación y análisis realizados en Python; gráficos interactivos en Flourish. Las cifras diarias y horarias incluyen todos los registros que superan las comprobaciones iniciales. Promedios sobre 10 días entre semana y 4 de fin de semana.
 
