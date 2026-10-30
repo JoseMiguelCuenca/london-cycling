@@ -28,7 +28,7 @@ El ridgeline usa 404.340 viajes de 1–120 minutos (98,29 %), histogramas suaviz
 Powered by TfL Open Data. Los datos de terceros conservan sus condiciones originales; este repositorio no les atribuye una licencia nueva.
 
 ## Estructura prevista
-`notebooks/01_exploracion.ipynb`: preparación y análisis (incorporar el notebook local).
+Notebooks- `01_exploracion.ipynb`: preparación y análisis (incorporar el notebook local).
 `data/processed/`: tablas agregadas exportadas (incorporar CSV locales).
 `docs/`: página pública y ridgeline.
 Los datos originales se obtienen de las fuentes; no es necesario subirlos para mostrar la web.
