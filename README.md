@@ -6,38 +6,12 @@ PEC2 de Visualización de Datos — José Miguel Cuenca Fernández.
 Describir el uso registrado de Santander Cycles del 1 al 14 de agosto de 2024 mediante una infografía de estudio de la demanda, en la misma infografía se añaden diagramas de cuerdas comparativo y un ridgeline. Los viajes no equivalen a personas únicas ni permiten medir demanda no atendida.
 
 Información de cada visualización:
-Volumen y actividad horaria
-
 La distinción por tipo de día y la normalización por número de jornadas son buenas decisiones. Comprobaría que los ejes y las unidades expresan claramente cuándo hablamos de viajes totales y cuándo de viajes medios diarios.
 
-
-
-
-
-
-
-
-
-
-
-
 Diagramas de cuerdas
-
 Son adecuados para explorar conexiones territoriales, pero no siempre facilitan la comparación exacta. Mantendría ambos y añadiría una frase más explícita sobre la diferencia de 7,25 puntos porcentuales de viajes internos entre semana y fin de semana.
 
-
-
-
-
-
-
-
-
-
-
-
 Ridgeline de duración
-
 Es una buena elección para comparar distribuciones. Ya aclaras que las curvas están normalizadas. Resaltaría las medianas y comprobaría que la exclusión de viajes fuera del intervalo de 1–120 minutos queda suficientemente visible.
 
 ## Visualizaciones
