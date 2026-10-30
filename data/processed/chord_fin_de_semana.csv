@@ -1,0 +1,143 @@
+﻿origen,destino,viajes_por_dia
+Camden,Camden,621.5
+Camden,City of London,77.25
+Camden,Hackney,63.5
+Camden,Hammersmith and Fulham,14.5
+Camden,Islington,155.5
+Camden,Kensington and Chelsea,48.5
+Camden,Lambeth,73.5
+Camden,Newham,1.0
+Camden,Southwark,87.25
+Camden,Tower Hamlets,88.75
+Camden,Wandsworth,12.5
+Camden,Westminster,554.25
+City of London,Camden,84.5
+City of London,City of London,154.5
+City of London,Hackney,71.5
+City of London,Hammersmith and Fulham,4.5
+City of London,Islington,72.75
+City of London,Kensington and Chelsea,13.25
+City of London,Lambeth,50.25
+City of London,Newham,1.5
+City of London,Southwark,133.25
+City of London,Tower Hamlets,218.25
+City of London,Wandsworth,8.75
+City of London,Westminster,206.0
+Hackney,Camden,74.75
+Hackney,City of London,73.75
+Hackney,Hackney,443.5
+Hackney,Hammersmith and Fulham,2.0
+Hackney,Islington,167.5
+Hackney,Kensington and Chelsea,11.5
+Hackney,Lambeth,25.75
+Hackney,Newham,54.25
+Hackney,Southwark,72.0
+Hackney,Tower Hamlets,380.5
+Hackney,Wandsworth,4.25
+Hackney,Westminster,72.0
+Hammersmith and Fulham,Camden,13.75
+Hammersmith and Fulham,City of London,4.75
+Hammersmith and Fulham,Hackney,1.25
+Hammersmith and Fulham,Hammersmith and Fulham,787.0
+Hammersmith and Fulham,Islington,3.0
+Hammersmith and Fulham,Kensington and Chelsea,354.0
+Hammersmith and Fulham,Lambeth,19.5
+Hammersmith and Fulham,Newham,0.75
+Hammersmith and Fulham,Southwark,9.25
+Hammersmith and Fulham,Tower Hamlets,2.75
+Hammersmith and Fulham,Wandsworth,161.75
+Hammersmith and Fulham,Westminster,156.5
+Islington,Camden,146.0
+Islington,City of London,82.25
+Islington,Hackney,163.0
+Islington,Hammersmith and Fulham,3.0
+Islington,Islington,208.0
+Islington,Kensington and Chelsea,10.75
+Islington,Lambeth,30.0
+Islington,Newham,4.0
+Islington,Southwark,55.5
+Islington,Tower Hamlets,121.75
+Islington,Wandsworth,7.5
+Islington,Westminster,127.0
+Kensington and Chelsea,Camden,50.75
+Kensington and Chelsea,City of London,17.5
+Kensington and Chelsea,Hackney,9.75
+Kensington and Chelsea,Hammersmith and Fulham,362.25
+Kensington and Chelsea,Islington,10.5
+Kensington and Chelsea,Kensington and Chelsea,1381.0
+Kensington and Chelsea,Lambeth,63.25
+Kensington and Chelsea,Newham,0.75
+Kensington and Chelsea,Southwark,32.0
+Kensington and Chelsea,Tower Hamlets,19.25
+Kensington and Chelsea,Wandsworth,206.25
+Kensington and Chelsea,Westminster,999.0
+Lambeth,Camden,67.25
+Lambeth,City of London,49.75
+Lambeth,Hackney,20.75
+Lambeth,Hammersmith and Fulham,19.75
+Lambeth,Islington,28.25
+Lambeth,Kensington and Chelsea,66.75
+Lambeth,Lambeth,606.75
+Lambeth,Newham,1.5
+Lambeth,Southwark,286.0
+Lambeth,Tower Hamlets,68.0
+Lambeth,Wandsworth,249.5
+Lambeth,Westminster,321.0
+Newham,Camden,1.25
+Newham,City of London,3.5
+Newham,Hackney,51.75
+Newham,Islington,2.0
+Newham,Kensington and Chelsea,0.25
+Newham,Lambeth,1.75
+Newham,Newham,225.75
+Newham,Southwark,2.5
+Newham,Tower Hamlets,106.25
+Newham,Wandsworth,0.5
+Newham,Westminster,4.25
+Southwark,Camden,77.75
+Southwark,City of London,133.75
+Southwark,Hackney,56.5
+Southwark,Hammersmith and Fulham,10.25
+Southwark,Islington,44.0
+Southwark,Kensington and Chelsea,31.75
+Southwark,Lambeth,270.75
+Southwark,Newham,3.75
+Southwark,Southwark,821.25
+Southwark,Tower Hamlets,201.5
+Southwark,Wandsworth,48.0
+Southwark,Westminster,296.0
+Tower Hamlets,Camden,88.5
+Tower Hamlets,City of London,233.75
+Tower Hamlets,Hackney,374.5
+Tower Hamlets,Hammersmith and Fulham,3.5
+Tower Hamlets,Islington,110.0
+Tower Hamlets,Kensington and Chelsea,26.0
+Tower Hamlets,Lambeth,61.5
+Tower Hamlets,Newham,110.5
+Tower Hamlets,Southwark,232.75
+Tower Hamlets,Tower Hamlets,2510.5
+Tower Hamlets,Wandsworth,10.5
+Tower Hamlets,Westminster,193.75
+Wandsworth,Camden,14.25
+Wandsworth,City of London,9.25
+Wandsworth,Hackney,3.25
+Wandsworth,Hammersmith and Fulham,156.25
+Wandsworth,Islington,5.0
+Wandsworth,Kensington and Chelsea,180.25
+Wandsworth,Lambeth,248.0
+Wandsworth,Southwark,44.5
+Wandsworth,Tower Hamlets,9.25
+Wandsworth,Wandsworth,830.75
+Wandsworth,Westminster,191.0
+Westminster,Camden,536.5
+Westminster,City of London,202.25
+Westminster,Hackney,74.25
+Westminster,Hammersmith and Fulham,166.25
+Westminster,Islington,127.0
+Westminster,Kensington and Chelsea,1002.5
+Westminster,Lambeth,348.25
+Westminster,Newham,5.25
+Westminster,Southwark,305.25
+Westminster,Tower Hamlets,215.5
+Westminster,Wandsworth,211.25
+Westminster,Westminster,4280.5
