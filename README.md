@@ -41,6 +41,3 @@ Notebooks- `01_exploracion.ipynb`: preparación y análisis (incorporar el noteb
 `data/processed/`: tablas agregadas exportadas (incorporar CSV locales).
 `docs/`: página pública y ridgeline.
 Los datos originales se obtienen de las fuentes; no es necesario subirlos para mostrar la web.
-
-## Publicación
-Subir la carpeta docs conservando su estructura. En Settings → Pages seleccionar Deploy from a branch, main y /docs. La dirección prevista es https://JoseMiguelCuenca.github.io/london-cycling/ una vez completada la publicación.
